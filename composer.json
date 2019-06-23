@@ -1,0 +1,14 @@
+{
+  "name": "php-curl-class/php-curl-class",
+  "description": "PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs.",
+  "authors": [
+    {
+      "name": "Badr sk1x"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  }
+}
