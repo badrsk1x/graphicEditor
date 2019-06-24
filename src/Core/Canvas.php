@@ -13,7 +13,6 @@ class Canvas
     /**
      * Canvas constructor.
      *
-     * @param $shape
      */
     public function __construct($config)
     {
